@@ -1,0 +1,25 @@
+
+# Rational or imaginary
+
+varA = 2
+varB= 2 * (4 + varA + 3)
+varC =2 * varB
+varD = 2 *(2 + 4 *varC -4 /3)
+
+# Matrices
+
+matA = [[1,2];[3,2];[3,4]]
+matB= [[1,2]]
+
+# Functions
+
+funA(b) = 2*b+b
+funB(a) =2 * a
+funC(y) =2* y + 4 -2 * 4+1/3
+funD(x) = 2 *x
+
+# Function Composition - BONUS
+
+funA(x) = 2*x+1
+funB(x) = 2 * x+1
+funA(funB(x)) = ?

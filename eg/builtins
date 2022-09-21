@@ -1,0 +1,37 @@
+
+# Built-in variables - BONUS
+
+pi=?
+e=?
+
+# Built-in Functions: Ln, Exp - BONUS
+
+ln(1)=?
+ln(e)=?
+ln(e^2)=?
+ln(exp(2.5))=?
+exp(ln(5))=?
+ln(-10)=?
+
+# Built-in Functions: Abs, Sqrt - BONUS
+
+abs(50)=?
+|-3|=?
+sqrt(625)=?
+sqrt(-25)=?
+
+# Built-in Functions: Trigonometry - BONUS
+
+torad(180)=?
+todeg(pi/4)=?
+sin(pi/6)=?
+cos(2pi/3)=?
+cos(pi)=?
+tan(torad(60))=?
+cot(pi/2)=?
+cot(0)=?
+tan(3pi/2)=?
+atan(0)=?
+todeg(atan(sqrt(3)))=?
+todeg(atan(-sqrt(3)/3))=?
+todeg(atan(1))=?

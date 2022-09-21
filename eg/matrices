@@ -1,0 +1,64 @@
+
+# Matrices
+
+# 1x1 matrix
+a=[[1]]
+# 1x2 matrix
+a=[[1,2]]
+# Wrong matrix
+a=[[1,2];[3]]
+# 2x2 matrix
+a=[[1,2];[3,4]]
+# 2x3 matrix
+b=[[3,5,7];[4,6,8]]
+# 2 cols * 2 rows, ok
+a**b=?
+# 3 cols * 2 rows, ko
+b**a=?
+# 2x2 != 2x3, ko
+a+b=?
+a=?
+# redefine b to 2x2
+b=[[5,6];[7,8]]
+# 2x2 == 2x2, ok now
+a+b=?
+a-b=?
+a*b=?
+# no '/' of matrices
+a/b=?
+# matrix / real is possible
+a/2=?
+# ** - matrix multiplication
+a=[[1,2]]
+b=[[3];[4]]
+# 1x2 ** 2x1 = 1x1
+a**b=?
+# 2x1 ** 1x2 = 2x2
+c=b**a
+# power of matrices
+c^2=?
+c^5=?
+c^0=?
+c^0.5=?
+
+# functions of matrices
+f(x)=x^2+5x
+f(3)=?
+a=[[1,2];[3,4]]
+f(a)=?
+
+# determinant, transpose, cofactor, adjugate (adjoint), inversion matrix - BONUS
+a=[[1,2]]
+trans(a)=?
+det(a)=?
+a=[[1,2];[3,4]]
+trans(a)=?
+|a|=?
+cof(a)=?
+adj(a)=?
+inv(a)=?
+a^-1=?
+a^-2=?
+a=[[1,2,3];[4,5,6];[7,8,9]]
+|a|=?
+a^-1=?

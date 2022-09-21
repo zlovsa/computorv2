@@ -1,0 +1,16 @@
+
+# Functions
+
+f(x)=2x+1
+f(5)=?
+f(x)=0?
+g(x)=(sin(x))^2+(cos(x))^2
+g(5)=?
+g(2500)=?
+g(-200000)=?
+
+# function composition - BONUS
+f(g(x))=?
+g(f(3))=?
+f(g(3))=?
+ls

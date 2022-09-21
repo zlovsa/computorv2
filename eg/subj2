@@ -1,0 +1,15 @@
+
+# Reassign a variable
+
+x = 2
+y = x
+y = 7
+y = 2 * i - 4
+
+# Reassign the result of a computation to a variable
+
+varA = 2 + 4 *2 - 5 %4 + 2 * (4 + 5)
+varB = 2 * varA - 5 %4
+funA(x) = varA + varB * 4 - 1 / 2 + x
+varC = 2 * varA - varB
+varD = funA(varC)

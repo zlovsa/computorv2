@@ -1,0 +1,6 @@
+a.out
+computorv2
+*.o
+*.d
+objs/*
+.vscode/*

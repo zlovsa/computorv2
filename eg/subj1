@@ -1,0 +1,22 @@
+
+# Rational numbers (for any x ∈ Q)
+
+varA = 2
+varB = 4.242
+varC = -4.3
+
+# Imaginary numbers for any x = a + ib such as (a, b) ∈ Q2
+
+varA = 2*i + 3
+varB = -4i - 4
+
+# Matrices for any A ∈ Mn,p(Q)
+
+varA = [[2,3];[4,3]]
+varB = [[3,4]]
+
+# Functions (with only one variable)
+
+funA(x) = 2*x^5 + 4x^2 - 5*x + 4
+funB(y) = 43 * y / (4 % 2 * y)
+funC(z) = -2 * z - 5
